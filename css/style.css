@@ -11,7 +11,8 @@ body {
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
-  background-color: black;
+  color: red;
+
 }
 
 .wrapper {

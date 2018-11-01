@@ -17,7 +17,6 @@ body {
   margin: 0 auto;
   width: 60%;
   padding-bottom: 40px;
-  color: red;
 }
 
 #content {
@@ -54,6 +53,7 @@ img {
 
 p {
   font-size: 1em;
+  text-shadow: 0 7px 7px 0;
 }
 
 a {
